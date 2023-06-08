@@ -1,7 +1,7 @@
 # flutter-bootcamp-2023-roadmap
 
 Flutter Bootcamp 2023 By Hamza Raziq Khan
-Chapter 1: Introduction to Flutter
+Chapter 1: Introduction to Flutter\n
 •	What is Flutter?
 •	Flutter's unique features
 •	Getting started with Flutter
